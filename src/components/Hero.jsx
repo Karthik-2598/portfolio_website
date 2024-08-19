@@ -20,11 +20,11 @@ const Hero = () => {
                       initial="hidden"
                       animate="visible"
                       opacity="0"
-                      className="pb-16 text-6xl font-thin tracking-light lg:mt-16 lg:text-8xl">KARTHIK</motion.h1>
+                      className="pb-16 text-6xl font-bold tracking-light lg:mt-16 lg:text-8xl">KARTHIK</motion.h1>
                       <motion.span variants={container(0.5)}
                       initial="hidden"
                       opacity="0"
-                      animate="visible"className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-light text-transparent">Full Stack Developer</motion.span>
+                      animate="visible"className="bg-gradient-to-r from-pink-500 via-slate-500 to-purple-700 bg-clip-text text-4xl tracking-light text-transparent">Full Stack Developer</motion.span>
                       <motion.p
                       variants={container(1)}
                       initial="hidden"
