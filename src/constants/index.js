@@ -1,6 +1,7 @@
 import project1 from "../assets/Shop_for_home.png";
 import project2 from "../assets/Chat_application.png";
 import project3 from "../assets/Food_app.png";
+import project4 from "../assets/Weather.png";
 
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React.js, as well as back-end technologies like Node.js, MySQL and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
@@ -51,7 +52,13 @@ export const PROJECTS = [
       "The application developed using the MERN frameworks, application reflects the features like User Management, Session Management,Cookie and JWT Authentication",
     technologies: ["ReactJS", "Express JS", "Node JS", "MongoDB", "Bootstrap"],
   },
-  
+  {
+    title: "Weather application",
+    image: project4,
+    description:
+    "A Responsive Weather application Website crafted with React, Vite JS, and styled using Tailwind CSS, powered by data from openweatherapi.",
+    technologies: ["ReactJS", "Tailwind CSS","Javascript"]
+  }
 ];
 
 export const CONTACT = {
