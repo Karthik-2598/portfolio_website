@@ -2,8 +2,8 @@ import logo from "../assets/karthiklogo.png";
 import {FaLinkedin} from "react-icons/fa";
 import {FaGithub} from "react-icons/fa";
 
-const Resume = 'https://drive.google.com/file/d/1T98tiHaLSaIEAcot_FYb4D7i396exb-v/view?usp=drive_link';
-const CVDownloadLink = '/Sai_Karthik_Karra_Resume.pdf';
+const Resume = 'https://drive.google.com/file/d/1YK5KD2qQs2Set88QMK48TK24Kal0HNpF/view?usp=sharing';
+const CVDownloadLink = './SaiKarthik_Karra_Resume.pdf';
 const linkedin = 'https://www.linkedin.com/in/karthik-karra/';
 const git = 'https://github.com/Karthik-2598'
 const Navbar = () => {
