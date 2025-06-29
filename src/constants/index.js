@@ -13,7 +13,12 @@ export const EXPERIENCES = [
     year: "2023 - Present",
     role: "Software Developer",
     company: "Center for Development of Telematics",
-    description: `Ideated and developed the website applications using React JS and Node JS frameworks.Developed the user-role management, and session management workflows in the applications using the React Libraries.Managed data-driven operations using MySQL and Mongo databases.Performed API testing, Functional Testing, and Stress Testing on the web applications to ensure an efficient workflow.Worked on the Automation of the Web applications using the Cypress tool to reduce the time and manual effort for testing.Met the timeline deliverables to successfully deliver the projects by collaborating with co-workers.
+    description: 
+    `Architected and developed a mobile-responsive web application using ReactJS, Node.js, and Express.js, featuring robust cookie management and scalability to handle high customer traffic.
+    Ideated and developed Java applications that reduced processing time by 50% and increased throughput by 40%.
+    Utilized automation libraries such as Mocha and Cypress to automate test case evaluation, enhancing efficiency by 50% and reducing time effort by 70%.
+    Deployed web applications using Docker for efficient management and scalability
+    
 `,
     technologies: ["Javascript", "React.js", "NodeJS", "ExpressJS","Docker","MongoDB", "Cypress"],
   },
